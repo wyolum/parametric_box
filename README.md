@@ -1,6 +1,8 @@
 # parametric_box
 3D printable Box, parametric design
 
+![Box](https://github.com/wyolum/parametric_box/blob/master/parametric_box_01.png)
+
 License
 -------
 [CERN Open Hardware Licence v1.2 ]
