@@ -11,11 +11,11 @@ INSTRUCTIONS
 4. If the design breaks, try changing the parameter marked in yellow "top_Zaxis_ref_plane" and see if it works.
 5. If it doesn't work, my parametric sketches are still not perfect and need fixing.
 6. To Export STL for 3D Printing for the Enclosure, select (ctrl-click) from BASE folder
-    top_rib_Pad007
-    base_Pad
-    body_Pocket005
+    * top_rib_Pad007
+    * base_Pad
+    * body_Pocket005
 7. To Export STL for 3D Printing for the Lid, select from LID folder
-    top_Pocket003
+    * top_Pocket003
 
 License
 -------
